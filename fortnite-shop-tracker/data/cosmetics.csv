@@ -53,7 +53,7 @@ Backpack_AuricVine,Sun Sign,backpack,uncommon,,,4,3,2023-07-29T05:32:56Z
 Backpack_AuroraOwl,Mark 1 Arc Reactor,backpack,marvel,MARVEL SERIES,MCU Avengers,7,2,2026-03-20T00:00:00Z
 Backpack_AutumnDelivery,Destined Aegis,backpack,rare,,Fate-Carved Warrior,5,2,2024-05-05T16:03:20Z
 Backpack_AutumnFern,Loot Piggy,backpack,rare,,The Games,6,5,2025-08-26T08:00:00Z
-Backpack_AvenuePole,PAC-MAN's Snacks,backpack,gaminglegends,Gaming Legends Series,Pac-Man,7,4,2026-09-18T13:01:02Z
+Backpack_AvenuePole,PAC-MAN's Snacks,backpack,gaminglegends,Gaming Legends Series,PAC-MAN,7,4,2026-09-18T13:01:02Z
 Backpack_AvocadoSeal,B.E.A.S.T. Armorplate,backpack,rare,,Monarch's Titans,6,1,2025-01-15T14:05:32Z
 Backpack_AzureBlade,Opaline Scabbard,backpack,rare,,Shining Sentinel,6,3,2025-05-16T08:50:37Z
 Backpack_BackAbsorb,Durrr-oyale Burger,backpack,rare,,Wallace Organization,7,1,2025-12-31T00:00:00Z
@@ -257,6 +257,8 @@ Backpack_CornerWeek,Creel's Clock,backpack,rare,,Stranger Things,6,6,2025-11-20T
 Backpack_CorvidStomp,Eight-Span Wings,backpack,rare,,Crow Guide,6,1,2025-01-31T14:25:34Z
 Backpack_CorvidStomp_Guitar,Riff Rook,backpack,rare,,,,,2025-02-09T00:00:00Z
 Backpack_CosmicSquatter,Squawk Sack,backpack,rare,,Breaker of Cages,5,1,2024-01-23T13:34:48Z
+Backpack_CosmicTrellis,Shujin Academy Backpack,backpack,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
+Backpack_CosmicTrellis_Guitar,Phantom Thieves Guitar,backpack,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
 Backpack_CountyFrog,DoodleBob,backpack,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
 Backpack_CountyFrog_DrumStick,Bikini Bottom Kit,backpack,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
 Backpack_CountyFrog_Guitar,Goofy Goober,backpack,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
@@ -316,6 +318,8 @@ Backpack_DarkStance,Snakebite Keyring,backpack,legendary,,Underworld King,5,2,20
 Backpack_DarkStance_Bass,The Underworlder,backpack,rare,,Underworld King,,,2025-05-22T01:55:14Z
 Backpack_DashSurge,Sous-shi Chefs,backpack,rare,CREW SERIES,Durrr Omakase,6,1,2024-12-18T12:19:13Z
 Backpack_Dazzle,The Boom,backpack,epic,,Retro Redux,4,2,2023-03-12T08:46:29Z
+Backpack_DebitScent,Carmen's Heart,backpack,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
+Backpack_DebitScent_Mic,Carmen's Microphone,backpack,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Backpack_DecaSphere,Rackpack,backpack,rare,,Backspin Brawler,2,Remix,2024-11-02T17:09:31Z
 Backpack_DefectBlip,Power Panels,backpack,epic,,Machine Learning,3,4,2022-11-01T13:50:36Z
 Backpack_DefectGlitch,Signal Sever,backpack,epic,,Machine Learning,3,4,2022-11-01T13:50:36Z
@@ -851,6 +855,9 @@ Backpack_MissusMind,Tri-Ooze Tank,backpack,rare,,Bleakest Bedlam,2,Remix,2024-11
 Backpack_MistMylar,Shadow Shroud,backpack,rare,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 Backpack_MistRaven,Wings of Myst,backpack,rare,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
 Backpack_MistressSombre,Maleficent's Raven,backpack,rare,,Disney Villains,5,4,2024-10-19T00:00:00Z
+Backpack_MistTycoonHike,Mookie & Maple Plushies,backpack,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
+Backpack_MistTycoonLife,Madison's Angel Wings,backpack,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
+Backpack_MistTycoon_Mic,Madison's Mic,backpack,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
 Backpack_MixedAlley,Chao Egg,backpack,gaminglegends,Gaming Legends Series,Sonic the Hedgehog,7,4,2026-08-21T00:00:00Z
 Backpack_MixedAlley_DrumStick,Chaos Crasher,backpack,gaminglegends,Gaming Legends Series,Sonic the Hedgehog,7,4,2026-08-21T00:00:00Z
 Backpack_MochiWoof,The Polychrome,backpack,rare,,Barkington Style Agency,6,2,2025-02-21T12:17:00Z
@@ -2970,6 +2977,7 @@ Character_CorkFloorSwim,Puppet Master Robert,outfit,icon,Icon Series,Metallica,5
 Character_CornerWeek,Vecna,outfit,epic,,Stranger Things,6,6,2025-11-20T15:08:06Z
 Character_CorvidStomp,Karasu,outfit,epic,,Crow Guide,6,1,2025-01-31T14:25:34Z
 Character_CosmicSquatter,Budge,outfit,rare,,Breaker of Cages,5,1,2024-01-23T13:34:48Z
+Character_CosmicTrellis,Joker (P5R),outfit,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
 Character_CowboyHat,Hela Odinsdottir,outfit,marvel,MARVEL SERIES,Ragnarok,5,2,2024-04-23T08:26:50Z
 Character_CoyoTear,Tigress,outfit,rare,,Tiger's Eye,4,4,2023-09-12T09:40:36Z
 Character_CoyoteTrail,Giannis Antetokounmpo,outfit,icon,Icon Series,Giannis Antetokounmpo,4,1,2022-12-23T12:36:17Z
@@ -3019,6 +3027,7 @@ Character_DarkStance_Inferno,Hades,outfit,legendary,,Underworld King,5,2,2024-03
 Character_DarkVogue,Dark Ruby,outfit,dark,DARK SERIES,Dark Stripes,5,4,2024-10-01T08:27:32Z
 Character_DashSurge,Durrr Taisho,outfit,epic,CREW SERIES,Durrr Omakase,6,1,2024-12-18T12:19:13Z
 Character_Dazzle,Imani,outfit,epic,,Retro Redux,4,2,2023-03-12T08:46:29Z
+Character_DebitScent,Panther (P5R),outfit,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Character_DecaSphere,10-Ball,outfit,epic,,Backspin Brawler,2,Remix,2024-11-02T17:09:31Z
 Character_DefectBlip,Errant,outfit,epic,,Machine Learning,3,4,2022-11-01T13:50:36Z
 Character_DefectGlitch,Glitch,outfit,epic,,Machine Learning,3,4,2022-11-01T13:50:36Z
@@ -3494,6 +3503,8 @@ Character_MistMylar_Claw,Daigo,outfit,epic,,Thousand Faces,6,1,2024-12-01T03:58:
 Character_MistRavenPeck,Morgan Myst,outfit,epic,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
 Character_MistRaven_NPC,TBD,outfit,epic,,,,,2025-06-07T19:01:48Z
 Character_MistressSombre,Maleficent,outfit,epic,,Disney Villains,5,4,2024-10-19T00:00:00Z
+Character_MistTycoonHike,Make You Mine Madison,outfit,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
+Character_MistTycoonLife,Satin Angel Madison,outfit,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
 Character_MistyBead,Lady Waveflow,outfit,epic,,Elemental Court,7,2,2026-04-30T09:17:44Z
 Character_MixedAlley,Knuckles the Echidna,outfit,gaminglegends,Gaming Legends Series,Sonic the Hedgehog,7,4,2026-08-21T00:00:00Z
 Character_Mochi,Mad Mochi,outfit,epic,,Glutinous Guardian,3,4,2022-10-04T09:01:34Z
@@ -5727,7 +5738,7 @@ CID_VIP_Athena_Commando_M_GalileoGondola_SG,Set_01_OA_SG,outfit,starwars,Star Wa
 Companion_AboutJury,Squanchy,sidekick,uncommon,,Ooh wee! Squanchy!,7,1,2026-03-05T15:29:53Z
 Companion_AbruptSudden,BDX Droid,sidekick,starwars,Star Wars Series,Galaxy's Edge,7,2,2026-05-20T13:04:28Z
 Companion_AutoMeow,Kyo,sidekick,uncommon,,Sky Style,,,2026-06-25T12:03:20Z
-Companion_AvenuePole,Pac-Man,sidekick,gaminglegends,Gaming Legends Series,Pac-Man,7,4,2026-09-18T13:01:02Z
+Companion_AvenuePole,PAC-MAN,sidekick,gaminglegends,Gaming Legends Series,PAC-MAN,7,4,2026-09-18T13:01:02Z
 Companion_BamBoom,P.A.N.D.A. Team Jr.,sidekick,uncommon,,Pocket P.A.N.D.A.,7,3,2026-07-16T08:32:04Z
 Companion_BandSoda,Slurp Puppy,sidekick,uncommon,,,7,2,2026-04-30T09:17:44Z
 Companion_BarrelWimp,Howlee Skye,sidekick,uncommon,,Pep Monster,7,2,2026-03-19T06:29:28Z
@@ -5761,6 +5772,7 @@ Companion_HeadWhale,Leviathan Jr.,sidekick,uncommon,,Space Explorers,7,1,2025-11
 Companion_HoneySting,Beebo,sidekick,uncommon,,Sweetest Honey,,,2026-07-16T08:32:04Z
 Companion_HoppyBun,Bun Bun Jr.,sidekick,uncommon,,Choco,7,2,2026-04-01T08:41:08Z
 Companion_IcyScarf,Globey,sidekick,uncommon,,Snowbrawler,7,1,2025-12-11T16:07:07Z
+Companion_ListDizzy,Morgana (P5R),sidekick,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Companion_MinkCalico,Aisha,sidekick,uncommon,,Neopets: Aisha Edition,,,2026-06-29T13:01:06Z
 Companion_MummyPast,Super Meat Boy,sidekick,gaminglegends,Gaming Legends Series,Super Meat Boy 3D,7,2,2026-04-01T00:00:00Z
 Companion_MuzzleSwish,Kitsune,sidekick,uncommon,,Fox Clan,7,1,2025-12-18T10:38:26Z
@@ -6341,6 +6353,7 @@ EID_CoreStreet,Punk Show,emote,uncommon,,Kick it Off,6,2,2025-03-25T17:24:52Z
 EID_CornerWeek,Vecna's Power Draw,emote,uncommon,,Stranger Things,,,2025-11-20T15:08:06Z
 EID_Coronation,Firework,emote,icon,Icon Series,,6,2,2025-03-19T00:00:00Z
 EID_Coronet,Crowning Achievement,emote,epic,,,3,1,2021-12-08T05:10:57Z
+EID_CosmicTrellis,Joker's Transformation,emote,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
 EID_CosmosPet,Hover-Pram Control,emote,starwars,Star Wars Series,,2,5,2020-12-08T19:08:39Z
 EID_Cottontail,Celebrate Me,emote,icon,Icon Series,,4,3,2023-07-17T00:00:00Z
 EID_CouchCushion,JUST DANCE 2,emote,icon,Icon Series,,7,1,2026-02-02T00:00:00Z
@@ -6413,6 +6426,7 @@ EID_Darling,Boo'd Up Groove,emote,icon,Icon Series,,5,1,2024-02-15T00:00:00Z
 EID_Dashing,Lil' Prancer,emote,rare,,,4,1,2022-12-13T10:43:37Z
 EID_Davinci,Levitate,emote,legendary,,Overseer,1,X,2019-11-20T12:49:45Z
 EID_Dazzle,Expressionism,emote,epic,,Retro Redux,4,2,2023-03-12T08:46:29Z
+EID_DebitScent,Panther's Showtime,emote,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 EID_Deceiver,Boy's a Liar,emote,icon,Icon Series,,4,4,2023-09-04T00:00:00Z
 EID_Decline,Da' Dip,emote,icon,Icon Series,,6,5,2025-10-17T00:00:00Z
 EID_DeepDab,Deep Dab,emote,uncommon,,,1,9,2019-11-20T12:49:45Z
@@ -7095,6 +7109,7 @@ EID_LogarithmKick_NJVD8,Trinity's Kick,emote,uncommon,,Follow the White Rabbit,3
 EID_LogarithmWhoa_T3PF9,Neo's Bullet Time,emote,uncommon,,Follow the White Rabbit,3,1,2021-12-21T00:00:00Z
 EID_Lonely,Where Ya Going?,emote,uncommon,,,4,1,2022-12-04T18:22:30Z
 EID_LoneWolf,Lunar Charge,emote,rare,,Order of the Waning Moon,3,1,2021-12-08T05:10:57Z
+EID_LongWeekend,Moving Like Berney,emote,icon,Icon Series,,7,4,2026-09-24T00:00:00Z
 EID_Loofah,Bounce Berry,emote,icon,Icon Series,Loserfruit,2,3,2020-06-21T09:01:14Z
 EID_LookAtThis,Behold!,emote,uncommon,,,1,6,2019-11-20T12:49:43Z
 EID_LooseCreep,Blinkin' Amazing,emote,gaminglegends,Gaming Legends Series,Overwatch,7,2,2026-05-14T09:00:00Z
@@ -7199,6 +7214,8 @@ EID_Mirage,Illusive,emote,uncommon,,,6,1,2025-01-30T00:00:00Z
 EID_MissusMind,Rhythm of Chaos,emote,uncommon,,Bleakest Bedlam,2,Remix,2024-11-02T17:09:31Z
 EID_MistMylar,Spirit Strider,emote,uncommon,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 EID_MistRaven,Arcane Research,emote,uncommon,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
+EID_MistTycoonHike,Yes Baby,emote,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
+EID_MistTycoonLife,Bittersweet,emote,icon,Icon Series,Madison Beer,7,4,2026-09-23T16:31:22Z
 EID_MobbedUp,Lush Life,emote,icon,Icon Series,,7,4,2026-08-31T00:00:00Z
 EID_ModerateAmount_9LUN1,Wanna See Me,emote,icon,Icon Series,,2,5,2021-02-06T00:00:00Z
 EID_ModernMix,Chandelier,emote,icon,Icon Series,,6,5,2025-09-26T00:00:00Z
@@ -8735,7 +8752,7 @@ Emoticon_AnvilAlarm,Squishy World,emoji,icon,Icon Series,Lil Tecca,7,3,2026-07-3
 Emoticon_AquaPeony,Unhappy Sun,emoji,uncommon,,Surf Scout,6,5,2025-08-07T09:33:19Z
 Emoticon_Arenas,Box Up,emoji,uncommon,,,7,3,2026-07-16T08:32:04Z
 Emoticon_AshenMagus,Steamed Killswitch,emoji,uncommon,,One Man Army,6,4,2025-06-07T19:01:48Z
-Emoticon_AvenuePole,Waka Waka,emoji,gaminglegends,Gaming Legends Series,Pac-Man,7,4,2026-09-18T13:01:02Z
+Emoticon_AvenuePole,Waka Waka,emoji,gaminglegends,Gaming Legends Series,PAC-MAN,7,4,2026-09-18T13:01:02Z
 Emoticon_BandSoda,Hi Slurp Puppy!,emoji,slurp,Slurp Series,Barrel o' Barks,7,2,2026-04-30T09:17:44Z
 Emoticon_BentBaton,Storm Beast's LOL,emoji,uncommon,,Pep Monster,6,4,2025-06-07T19:01:48Z
 Emoticon_BerryFlight,Roxberry,emoji,uncommon,,Space Style,7,3,2026-06-25T12:03:20Z
@@ -8758,6 +8775,7 @@ Emoticon_ClumsyChew,You're Extinct,emoji,uncommon,,Panda-monium,6,5,2025-08-07T0
 Emoticon_ComicTabby,Tabby Cattitude,emoji,uncommon,,Inkville Gang,7,2,2026-05-14T10:11:56Z
 Emoticon_CoolSlice,Okily Dokily!,emoji,uncommon,,The Simpsons,6,6,2025-11-02T20:05:32Z
 Emoticon_CopperMoggy,Nerds Rule!,emoji,uncommon,,Island's Innovator,7,3,2026-06-06T03:03:15Z
+Emoticon_CosmicTrellis,Metaverse Navigator,emoji,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
 Emoticon_CozyMechanic,Heart Fixer,emoji,uncommon,,The Elites,7,2,2026-03-19T06:29:28Z
 Emoticon_CozyMechanic2,Engineer's Thumbs Up,emoji,uncommon,,The Elites,7,2,2026-03-19T06:29:28Z
 Emoticon_CreamSkull,GREAT SCOTT!,emoji,uncommon,,Back to the Future,7,1,2025-11-29T20:57:37Z
@@ -9938,6 +9956,7 @@ LoadingScreen_MistMylar_Claw,Kintsugi Daigo,loadingscreen,uncommon,,Thousand Fac
 LoadingScreen_MistMylar_ClawCry,Daigo,loadingscreen,uncommon,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 LoadingScreen_MistRaven,Rookie Training,loadingscreen,uncommon,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
 LoadingScreen_MistRaven2,Supernovas In Action,loadingscreen,uncommon,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
+LoadingScreen_MistTycoonKeyArt,Rooftop Madison,loadingscreen,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
 LoadingScreen_Mochi,Mochimallow Roast,loadingscreen,uncommon,,Glutinous Guardian,3,4,2022-10-04T09:01:34Z
 LoadingScreen_MoosePorch,Iron Patriot,loadingscreen,marvel,MARVEL SERIES,War Machine,5,4,2024-08-17T06:38:59Z
 LoadingScreen_MoosePorch2,War Machine,loadingscreen,marvel,MARVEL SERIES,War Machine,5,4,2024-08-17T06:38:59Z
@@ -11052,7 +11071,7 @@ Pickaxe_AuraCop,Outlaw's Whipknives,pickaxe,rare,,Golden Gunslinger,6,2,2025-03-
 Pickaxe_AuroraOwl,Dum-E Arm,pickaxe,marvel,MARVEL SERIES,MCU Avengers,7,2,2026-03-20T00:00:00Z
 Pickaxe_AutumnDelivery,Carver of Fate,pickaxe,uncommon,,Fate-Carved Warrior,5,2,2024-05-05T16:03:20Z
 Pickaxe_AutumnFern,Perilous Gift,pickaxe,rare,,The Games,6,5,2025-08-26T08:00:00Z
-Pickaxe_AvenuePole,PAC-MAN's Gloves,pickaxe,gaminglegends,Gaming Legends Series,Pac-Man,7,4,2026-09-18T13:01:02Z
+Pickaxe_AvenuePole,PAC-MAN's Gloves,pickaxe,gaminglegends,Gaming Legends Series,PAC-MAN,7,4,2026-09-18T13:01:02Z
 Pickaxe_AvocadoSeal,Kong's Battle Axe,pickaxe,rare,,Monarch's Titans,6,1,2025-01-15T14:05:32Z
 Pickaxe_AxeOfUnreal_41,The Unrealizer,pickaxe,rare,,,7,3,2026-06-06T03:03:15Z
 Pickaxe_AxeOfUnreal_41Reload,The De-Rezz Unrealizer,pickaxe,rare,,,7,3,2026-07-30T13:11:09Z
@@ -11247,6 +11266,8 @@ Pickaxe_CornerWeek,Vecnaxe,pickaxe,rare,,Stranger Things,6,6,2025-11-20T15:08:06
 Pickaxe_CorvidStomp,Claw of Myth,pickaxe,rare,,Crow Guide,6,1,2025-01-31T14:25:34Z
 Pickaxe_CorvidStomp_Guitar,Riff Rook,pickaxe,rare,,,,,2025-02-09T00:00:00Z
 Pickaxe_CosmicSquatter,Cosmic Peck Axe,pickaxe,rare,,Breaker of Cages,5,1,2024-01-23T13:34:48Z
+Pickaxe_CosmicTrellis,Silver Dagger,pickaxe,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
+Pickaxe_CosmicTrellis_Guitar,Phantom Thieves Guitar,pickaxe,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-24T16:00:38Z
 Pickaxe_CountyFrog,The Golden Spatula,pickaxe,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
 Pickaxe_CountyFrog_DrumStick,Bikini Bottom Kit,pickaxe,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
 Pickaxe_CountyFrog_Guitar,Goofy Goober,pickaxe,rare,,SpongeBob SquarePants,7,1,2025-12-20T00:00:00Z
@@ -11302,6 +11323,8 @@ Pickaxe_DarkVogue,Dark Slicer,pickaxe,dark,DARK SERIES,Dark Stripes,5,4,2024-10-
 Pickaxe_DashSurge,The Greenest Onion,pickaxe,rare,CREW SERIES,Durrr Omakase,6,1,2024-12-18T12:19:13Z
 Pickaxe_Dazzle,Vicious Vintage,pickaxe,rare,,Retro Redux,4,2,2023-03-12T08:46:29Z
 Pickaxe_Deathvalley,Death Valley,pickaxe,epic,,,1,1,2019-11-20T12:50:59Z
+Pickaxe_DebitScent,Carmen's Heart Flail,pickaxe,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
+Pickaxe_DebitScent_Mic,Carmen's Microphone,pickaxe,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Pickaxe_DecaSphere,Deca-Flail,pickaxe,rare,,Backspin Brawler,2,Remix,2024-11-02T17:09:31Z
 Pickaxe_Defect,Code Cutter,pickaxe,rare,,Machine Learning,3,4,2022-11-01T13:50:36Z
 Pickaxe_DegreeProper_Guitar,Noodle's Axe,pickaxe,icon,Icon Series,Gorillaz,6,5,2025-08-26T08:00:00Z
@@ -12613,6 +12636,8 @@ Pickaxe_MissusMind,Spiked Baton-Mace,pickaxe,rare,,Bleakest Bedlam,2,Remix,2024-
 Pickaxe_MistMylar,Daigo's Claws,pickaxe,rare,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 Pickaxe_MistRaven,Darkfire Claws,pickaxe,rare,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
 Pickaxe_MistressSombre,Maleficent's Scepter,pickaxe,rare,,Disney Villains,5,4,2024-10-19T00:00:00Z
+Pickaxe_MistTycoonHike,Madison's OG Pickaxe,pickaxe,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
+Pickaxe_MistTycoon_Mic,Madison's Mic,pickaxe,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
 Pickaxe_MistyBead,Ocean's Riptide,pickaxe,rare,,Elemental Court,7,2,2026-04-30T09:17:44Z
 Pickaxe_MixedAlley,Knuckles' Gloves,pickaxe,gaminglegends,Gaming Legends Series,Sonic the Hedgehog,7,4,2026-08-21T00:00:00Z
 Pickaxe_MixedAlley_DrumStick,Chaos Crasher,pickaxe,gaminglegends,Gaming Legends Series,Sonic the Hedgehog,7,4,2026-08-21T00:00:00Z
@@ -13371,7 +13396,7 @@ Shoes_CoinCoachLaw,adidas Anthony Edwards 2 Low 'Acid Orange',shoe,uncommon,,adi
 Shoes_CoinCoachTax,adidas Superstar OG 'Black',shoe,uncommon,,adidas Shoes,7,1,2026-01-10T00:00:00Z
 Shoes_CometNova,adidas Samba OG ‘Burgundy’,shoe,uncommon,,adidas Shoes,7,3,2026-07-16T08:32:04Z
 Shoes_ConfettiWagon,Llama Lloafers,shoe,uncommon,,,6,5,2025-09-10T11:24:45Z
-Shoes_Cosmictrelliswand,Morgana Slippers,shoe,gaminglegends,Gaming Legends Series,Set_01,7,4,2026-09-17T16:17:14Z
+Shoes_Cosmictrelliswand,Morgana Slippers,shoe,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-17T16:17:14Z
 Shoes_CrackCrispSlush,Air Jordan 4 Retro OG 'UNDEFEATED',shoe,uncommon,,Air Jordan Shoes,7,1,2025-12-02T06:46:00Z
 Shoes_CrackCrispTundra,Nike Air Max 95 'Ugly Christmas Sweater',shoe,uncommon,,NIKE Shoes,7,1,2025-12-02T06:46:00Z
 Shoes_CrimsonSolace,Bobom Beachies,shoe,uncommon,,High Stakes Summer,7,3,2026-06-27T00:00:00Z
@@ -13626,7 +13651,7 @@ Shoes_TinselGlam,Celebrity Steppers,shoe,uncommon,,Leading Lady,7,1,2025-12-11T1
 Shoes_ToeBean,Meow-Soles,shoe,uncommon,,,2,Remix,2024-11-25T22:05:25Z
 Shoes_TombRobeSky,Converse Weapon Mid 'Red/White',shoe,uncommon,,Converse Shoes,7,1,2026-01-24T17:11:45Z
 Shoes_TreasureTrove,Pot o' Feet,shoe,uncommon,,,7,1,2026-03-05T15:29:53Z
-Shoes_TrikeFunnyLike,Pac-Sneaks,shoe,gaminglegends,Gaming Legends Series,Pac-Man,7,4,2026-09-17T16:17:14Z
+Shoes_TrikeFunnyLike,PAC-Sneaks,shoe,gaminglegends,Gaming Legends Series,PAC-MAN,7,4,2026-09-17T16:17:14Z
 Shoes_TroveOnyxBlast,Crocs Baya Glitter Platform Clog 'Pearl White',shoe,uncommon,,Crocs Shoes,7,1,2026-01-10T00:21:38Z
 Shoes_TroveOnyxFlurry,Crocs Classic Clog 'Slate Grey',shoe,uncommon,,Crocs Shoes,7,1,2026-01-10T00:21:38Z
 Shoes_TugBlooperCurt,Air Jordan 13 Retro 'Flint',shoe,uncommon,,Jordan Shoes,7,4,2026-09-04T00:00:00Z
@@ -14558,6 +14583,7 @@ Spray_MistMylar_Claw,Woodblock Print Daigo,spray,epic,,Thousand Faces,6,1,2024-1
 Spray_MistMylar_ClawCry,Thousand Faces,spray,epic,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 Spray_MistRaven,Morgan Myst Insignia,spray,uncommon,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
 Spray_MistRaven2,Gothic Morgan,spray,uncommon,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
+Spray_MistTycoon,M.B. Icon,spray,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
 Spray_MobileRanked,Megumi Snap,spray,epic,,,7,1,2026-01-22T14:03:14Z
 Spray_MoosePorch,KA-CHOOM!,spray,marvel,MARVEL SERIES,War Machine,5,4,2024-08-17T06:38:59Z
 Spray_MoosePorch2,Stylized War Machine,spray,marvel,MARVEL SERIES,War Machine,5,4,2024-08-17T06:38:59Z
@@ -15841,6 +15867,7 @@ Wrap_CopperToll,Shade's Promise,wrap,uncommon,,Stygian Boatman,5,2,2024-03-26T08
 Wrap_CoreStreet,Punk Rock,wrap,rare,,Kick it Off,6,2,2025-03-25T17:24:52Z
 Wrap_CorvidStomp,Yatagarasu,wrap,rare,,Crow Guide,6,1,2025-01-31T14:25:34Z
 Wrap_CosmicSquatter,Budge Blaster,wrap,uncommon,,,5,4,2024-09-17T08:31:42Z
+Wrap_CosmicTrellis,Joker's Eyes,wrap,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Wrap_CoyoTear,Tiger Prints,wrap,uncommon,,Tiger's Eye,4,4,2023-09-12T09:40:36Z
 Wrap_CoyoteTrail,Ankara Print,wrap,icon,Icon Series,Giannis Antetokounmpo,4,1,2022-12-23T12:36:17Z
 Wrap_CozyMechanic,Ohm's Eyes,wrap,rare,,The Elites,7,2,2026-03-19T06:29:28Z
@@ -15870,6 +15897,7 @@ Wrap_DarkStanceA,Elysium,wrap,rare,,Underworld King,5,2,2024-03-08T13:32:49Z
 Wrap_DarkStanceB,Lethe,wrap,rare,,Underworld King,5,2,2024-03-08T13:32:49Z
 Wrap_DarkVogue,Shadow Glyphs,wrap,dark,DARK SERIES,Dark Stripes,5,4,2024-10-01T08:27:32Z
 Wrap_DazzleV2,All-Nighter,wrap,rare,,Retro Redux,4,2,2023-03-12T08:46:29Z
+Wrap_DebitScent,Panther's Eyes,wrap,gaminglegends,Gaming Legends Series,Persona 5 Royal,7,4,2026-09-25T13:00:42Z
 Wrap_DebtToad,TBD,wrap,rare,,Banner Brigade,,,2025-06-07T19:01:48Z
 Wrap_DecaSphere,10 on Target,wrap,rare,,Backspin Brawler,2,Remix,2024-11-02T17:09:31Z
 Wrap_DeerChair_Ballistic,Daigo's Charge,wrap,rare,,The Elites,7,2,2026-03-19T06:29:28Z
@@ -16059,6 +16087,7 @@ Wrap_MirageHike,Overflow,wrap,rare,,Ethereal Song,4,2,2023-04-11T10:06:45Z
 Wrap_MissusMind,Chaos Directive,wrap,rare,,Bleakest Bedlam,2,Remix,2024-11-02T17:09:31Z
 Wrap_MistMylar,Shadowgold,wrap,rare,,Thousand Faces,6,1,2024-12-01T03:58:22Z
 Wrap_MistRaven,Shadow's Call,wrap,rare,,Shadow Heroine,6,4,2025-06-07T19:01:48Z
+Wrap_MistTycoon,Madison's Glam Wrap,wrap,icon,Icon Series,Madison Beer,7,4,2026-09-24T13:00:55Z
 Wrap_MistyBead,Placid Shore,wrap,rare,,Elemental Court,7,2,2026-04-30T09:17:44Z
 Wrap_Mitosis,Otherworld,wrap,rare,,,5,4,2024-10-01T08:27:32Z
 Wrap_Mochi,Red Bean Rave,wrap,rare,,Glutinous Guardian,3,4,2022-10-04T09:01:34Z
